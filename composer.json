@@ -14,11 +14,7 @@
   ],
   "license": "BSD-2-Clause",
   "require": {
-    "php": ">=7.1.3",
-    "psr/log": "*",
-    "symfony/polyfill-intl-idn": "^1.11",
-    "symfony/cache": "^4.2",
-    "symfony/polyfill-mbstring": "^1.11"
+    "php": ">=7.1.3"
   },
   "authors": [
     {
